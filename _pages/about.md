@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 email: asbhandari@mail.smu.edu</p>
+    <p>email: asbhandari@mail.smu.edu</p>
     <p>Your Houston, TX 77494</p>
 
 news: true  # includes a list of news items
