@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Beer and Breweries EDA
+description: Exploratory Data Analysis of Beer and Breweries (with Alcohol by Volume and Bitterness Unit as key variables)
 img: assets/img/7.jpg
 redirect: https://github.com/bhandarianish/CaseStudy1_BeersBreweries
 importance: 3
