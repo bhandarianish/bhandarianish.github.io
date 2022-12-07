@@ -1,8 +1,8 @@
 ---
 layout: page
-title: DDSAnalytics for Frito Lay (Mock)
+title: DDS-Analytics for Frito Lay 
 description: Employee Data Analysis to Predict Attrition and Salary
-img:
+img: assets/img/4.jpg
 redirect: https://github.com/bhandarianish/MSDS-6306-Case-Study-2
 importance: 3
 category: class
