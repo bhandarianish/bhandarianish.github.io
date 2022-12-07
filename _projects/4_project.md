@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: DDSAnalytics for Frito Lay (Mock)
+description: Employee Data Analysis to Predict Attrition and Salary
 img:
+redirect: https://github.com/bhandarianish/MSDS-6306-Case-Study-2
 importance: 3
-category: fun
+category: class
 ---
 
 Every project has a beautiful feature showcase page.
