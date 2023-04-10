@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Beer and Breweries EDA
-description: Exploratory Data Analysis of Beer and Breweries (with Alcohol by Volume and Bitterness Unit as key variables)
+description: Exploratory Data Analysis of Beer and Breweries 
 img: assets/img/7.jpg
 redirect: https://github.com/bhandarianish/CaseStudy1_BeersBreweries/blob/main/Datascience_project_Final.pdf
 importance: 3
