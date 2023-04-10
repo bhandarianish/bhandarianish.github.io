@@ -2,7 +2,7 @@
 layout: page
 title: MLR Kaggle Sales Price
 description: Sales price prediction using MLR model
-img: assets/img/7.jpg
+img: assets/img/1.jpg
 redirect: https://github.com/bhandarianish/MSDS-6371/blob/main/Jones_Bhandari_Project.pdf
 importance: 3
 category: class
